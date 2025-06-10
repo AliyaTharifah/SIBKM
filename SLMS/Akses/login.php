@@ -19,7 +19,7 @@
     <!-- Navigasi Logo Start -->
     <nav>
         <div class="logo">
-            <p>SLM</p>
+            <p>SLMS</p>
             <p>Student Loan Management System</p>
         </div>
 
