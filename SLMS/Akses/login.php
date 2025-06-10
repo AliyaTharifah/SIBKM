@@ -19,7 +19,7 @@
     <!-- Navigasi Logo Start -->
     <nav>
         <div class="logo">
-            <p>SLMS</p>
+            <p>Hai</p>
             <p>Student Loan Management System</p>
         </div>
 
